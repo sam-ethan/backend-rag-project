@@ -1,0 +1,8 @@
+1)Documents Created
+2)Chunking.js file created -> convert text in to [ChunkArrays]-> and export the array . named ->AllChunks
+3)Embedding.js file created ->convert text to vector numbers and store Embeddings array
+4)understand the Embedding.js last 3 lines ones yourself->and understand and rewrite the vectorStore;js file 
+5)similiarity check learn the all code write manualy
+6)finalSimiliarityCheck.js ->learn this file write manually understand that -> i did'nt to that 
+7)openrouter.js ->done understand but i gave own things
+8)need to add my chunk to this

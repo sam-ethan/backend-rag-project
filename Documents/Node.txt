@@ -1,0 +1,5 @@
+Node.js lets us run JavaScript outside the browser.
+It is built on Chrome's V8 JavaScript engine.
+It is commonly used to build backend servers and APIs.
+It uses non-blocking, asynchronous I/O to handle many requests efficiently.
+Example: A Node.js server can receive a login request, check MongoDB, and send a response to React.

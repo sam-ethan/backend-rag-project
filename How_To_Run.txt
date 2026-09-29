@@ -1,0 +1,41 @@
+### How to Run
+
+1. Install dependencies
+
+```bash
+npm install
+```
+
+2. Create `.env`
+
+In the project root:
+
+```env
+OPENROUTER_API_KEY=your_api_key_here
+```
+
+3. Run the project
+
+```bash
+node <your-main-file>.js
+```
+
+Replace `<your-main-file>` with the JavaScript file that starts your RAG flow.
+
+### Flow
+
+```text
+npm install
+   ↓
+Create .env
+   ↓
+Add OpenRouter API Key
+   ↓
+Run main JS file
+   ↓
+Document → Embedding → Similarity Search
+   ↓
+Relevant Chunk → LLM
+   ↓
+Final Answer
+```

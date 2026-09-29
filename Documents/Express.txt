@@ -1,0 +1,5 @@
+Express.js is a lightweight web framework for Node.js.
+It helps us build web servers and REST APIs easily.
+It provides routes like GET, POST, PUT, and DELETE.
+It uses middleware to process requests before reaching the response.
+Example: A React app can call an Express API to get or save data in MongoDB.

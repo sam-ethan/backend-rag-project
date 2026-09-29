@@ -1,0 +1,5 @@
+MongoDB is a NoSQL database used to store application data.
+It stores data as documents instead of rows and columns.
+Documents are stored in collections.
+It uses a JSON-like format called BSON internally.
+Example: A Node.js app can store user details, products, and orders in MongoDB.
